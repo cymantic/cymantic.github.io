@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Cymantic&#39;s Blog</title>
+    <link>http://cymantic.me/designs/</link>
+    <description>Recent content in Designs on Cymantic&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>© Tom McMillen</copyright>
+    
+	<atom:link href="http://cymantic.me/designs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
